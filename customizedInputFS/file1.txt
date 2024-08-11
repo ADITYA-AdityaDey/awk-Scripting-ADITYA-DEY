@@ -1,0 +1,10 @@
+1,Rachel,Patel,101,IT
+2,Ethan,Kim,102,HR
+3,Ava,Morales,103,Sales
+4,Liam,Chen,104,Marketing
+5,Julia,Martin,105,Finance
+6,Olivia,Brown,106,IT
+7,Logan,Lee,107,HR
+8,Gabriel,Hall,108,Sales
+9,Sofia,Rodriguez,109,Marketing
+10,Alexander,White,110,Finance
