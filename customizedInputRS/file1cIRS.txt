@@ -1,0 +1,1 @@
+Apple 100 Available:Mango 500 Not-available:Orange 200 Available
